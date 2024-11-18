@@ -7,7 +7,7 @@
 #define TOTAL_LIVROS 50
 #define MAX_CARACTERES 100
 #define SALVAR_ARQUIVO 'salvarArquivo.txt'
-//mudança teste
+
 typedef struct
 {
     char nome[MAX_CARACTERES];
